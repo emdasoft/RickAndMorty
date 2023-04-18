@@ -1,7 +1,8 @@
-package com.emdasoft.rickandmorty
+package com.emdasoft.rickandmorty.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.emdasoft.rickandmorty.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
